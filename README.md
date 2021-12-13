@@ -9,7 +9,7 @@
 
 - 👨‍🎓 I’m currently a student in **Sofia University.**
 
-- 🌱 I’m currently learning **OOP principles.**
+- 🌱 I’m currently learning **Django.**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
