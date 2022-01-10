@@ -24,6 +24,7 @@
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="#" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbg.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw0BfzRR_8_9oE0bpULQkR-5&ust=1641921100423000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMidopbXp_UCFQAAAAAdAAAAABAI"/> </a> 
     <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  -->
     <!-- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>  -->
     <!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  -->
