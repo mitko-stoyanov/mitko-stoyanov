@@ -17,7 +17,11 @@
 
 - 📫 How to reach me **mistoqnow@gmail.com**
 
+<<<<<<< HEAD
 <!-- - ⚡ Fun fact **I love to dance.** -->
+=======
+- ⚡ Fun fact **I love to dance.**
+>>>>>>> 993d2de3385ad248214fa0220c5a7c10cb42d996
 
 
 ## 🚀 Languages and Tools:
