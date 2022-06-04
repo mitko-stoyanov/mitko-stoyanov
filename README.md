@@ -25,10 +25,10 @@
  <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
-  <a href="https://www.linux.org/" target="_blank"> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="linux" width="43" height="43"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
