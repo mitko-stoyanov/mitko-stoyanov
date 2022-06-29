@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Mitko</h1>
-<h3 align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec condimentum pretium dapibus. Nulla tempor, urna condimentum tincidunt dictum, ipsum dolor convallis augue, cursus auctor sem urna in nisl. Nullam fermentum justo ut vulputate interdum. Vestibulum sollicitudin pellentesque nunc, ut pretium neque feugiat imperdiet. Aenean lobortis purus vel erat vestibulum bibendum. In mattis, nisi id fermentum tincidunt, quam ipsum dapibus est</h3>
+<h3 align="center">I am currently a student at Sofia University, majoring in Information Systems. I deal mainly with backend, but i also have interests in frontend. I have also been studying at SoftUni for a year and a half. There I study Python and Django.</h3>
 
 
 
